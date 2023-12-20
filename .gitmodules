@@ -10,3 +10,7 @@
 	path = brand
 	url = git@github.com:Vauxoo/gsk-brand.git
 	branch = 17.0
+[submodule "icm-agreement"]
+	path = icm-agreement
+	url = git@git.vauxoo.com:vauxoo/icm-agreement.git
+	branch = 17.0
