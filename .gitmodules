@@ -4,8 +4,8 @@
 	branch = 17.0
 [submodule "icm-boat"]
 	path = icm-boat
-	url = git@git.vauxoo.com:vauxoo-dev/icm-boat.git
-	branch = 17.0-boat_report2-gilmaciasr
+	url = git@git.vauxoo.com:vauxoo/icm-boat.git
+	branch = 17.0
 [submodule "brand"]
 	path = brand
 	url = git@github.com:Vauxoo/gsk-brand.git
