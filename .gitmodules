@@ -12,9 +12,9 @@
 	branch = 17.0
 [submodule "icm-agreement"]
 	path = icm-agreement
-	url = git@git.vauxoo.com:vauxoo/icm-agreement.git
-	branch = 17.0
+	url = git@git.vauxoo.com:vauxoo-dev/icm-agreement.git
+	branch = 17.0-update-features-emilioserna
 [submodule "base-formula"]
 	path = base-formula
-	url = git@git.vauxoo.com:vauxoo/base-formula.git
-	branch = 17.0
+	url = git@git.vauxoo.com:vauxoo-dev/base-formula.git
+	branch = 17.0-update-features-emilioserna
