@@ -5,7 +5,7 @@
 [submodule "icm-boat"]
 	path = icm-boat
 	url = git@git.vauxoo.com:vauxoo-dev/icm-boat.git
-	branch = 17.0-report-format-vescaname
+	branch = 17.0-boat_document_report_changes-vescaname
 [submodule "brand"]
 	path = brand
 	url = git@github.com:Vauxoo/gsk-brand.git
