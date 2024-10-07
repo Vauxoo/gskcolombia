@@ -4,16 +4,16 @@
 	branch = 17.0
 [submodule "icm-boat"]
 	path = icm-boat
-	url = git@git.vauxoo.com:vauxoo-dev/icm-boat.git
-	branch = 17.0-boat_document_report_changes-vescaname
+	url = git@git.vauxoo.com:vauxoo/icm-boat.git
+	branch = 17.0
 [submodule "brand"]
 	path = brand
 	url = git@github.com:Vauxoo/gsk-brand.git
 	branch = 17.0
 [submodule "icm-agreement"]
 	path = icm-agreement
-	url = git@git.vauxoo.com:vauxoo-dev/icm-agreement.git
-	branch = 17.0-icm_agreement-cutomer_service_report_changes-vescaname
+	url = git@git.vauxoo.com:vauxoo/icm-agreement.git
+	branch = 17.0
 [submodule "base-formula"]
 	path = base-formula
 	url = git@git.vauxoo.com:vauxoo/base-formula.git
