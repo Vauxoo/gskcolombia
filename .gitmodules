@@ -1,7 +1,7 @@
 [submodule "gskcolombia"]
 	path = gskcolombia
 	url = git@git.vauxoo.com:vauxoo/gskcolombia.git
-	branch = 17.0
+	branch = 17.0-gskcolombia-delete_menuitem-vescaname
 [submodule "icm-boat"]
 	path = icm-boat
 	url = git@git.vauxoo.com:vauxoo/icm-boat.git
